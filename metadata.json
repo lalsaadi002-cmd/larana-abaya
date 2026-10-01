@@ -1,0 +1,6 @@
+{
+  "name": "LARANA STORE | لارانا ستور - Luxury Omani Abayas",
+  "description": "High-end luxury abaya fashion house from Muscat, Oman. Timeless elegance, designed for you.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
